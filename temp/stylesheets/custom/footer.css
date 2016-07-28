@@ -1,5 +1,7 @@
 /* line 1, ../../sass/custom/footer.scss */
-hello {
+p{
   padding: 0 0 00px;
   margin: 0px;
+  color:red;
+  word-break:all;
 }
