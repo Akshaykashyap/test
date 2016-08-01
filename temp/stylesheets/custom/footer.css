@@ -1,8 +1,20 @@
 /* line 1, ../../sass/custom/footer.scss */
-p{
+p {
   padding: 0 0 00px;
   margin: 0px;
-  color:red;
-  word-break:all;
-  font-size: 30px;
+}
+
+/* line 5, ../../sass/custom/footer.scss */
+h1 {
+  color: red;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 20px;
+}
+
+/* line 12, ../../sass/custom/footer.scss */
+h2 {
+  color: green;
+  font-size: 20px;
+  line-height: 200;
 }
